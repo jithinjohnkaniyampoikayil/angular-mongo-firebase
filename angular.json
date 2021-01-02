@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-mongo-firebase"
+    }
+  },
+  "defaultProject": "angular-mongo-firebase",
+  "cli": {
+    "analytics": false
+  }
 }
